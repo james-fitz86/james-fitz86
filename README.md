@@ -19,7 +19,7 @@ I enjoy building full-stack web applications using **Python (Flask/Django)** and
 💡 *Currently exploring React and REST API integrations while expanding my project portfolio.*
 
 ---
-- 📫 How to reach me: james.fitzy86@icloud.com
+- 📫 How to reach me: james.fitzy86@gmail.com
 
 <!--
 **james-fitz86/james-fitz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
