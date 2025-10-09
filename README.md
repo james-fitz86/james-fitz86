@@ -16,7 +16,7 @@ I enjoy building full-stack web applications using **Python (Flask/Django)** and
 
 ---
 
-💡 *Currently exploring React and REST API integrations while expanding my project portfolio.*
+💡 *Currently diving into Neovim and fine-tuning my developer setup.*
 
 ---
 - 📫 Open to junior developer or internship opportunities — feel free to connect or reach out! james.fitzy86@gmail.com
