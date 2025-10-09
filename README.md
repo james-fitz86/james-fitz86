@@ -13,7 +13,7 @@ I enjoy building full-stack web applications using **Python (Flask/Django)** and
 
 ## 🚀 Featured Projects
 - [**PlanAtEase**](https://github.com/james-fitz86/planatease) – Smart travel itinerary builder (Django + React + REST API)  
-- [**Baile Beag GAA**](https://github.com/james-fitz86/baile-beag-gaa) – Role-based pitch booking system (Django + PostgreSQL)  
+- [**Baile Beag GAA**](https://github.com/james-fitz86/bailebeag) – Role-based pitch booking system (Django + PostgreSQL)  
 - [**Homemade Pickle Store**](https://github.com/james-fitz86/pickle-polona) – Admin dashboard web app (Flask + SQLAlchemy)
 
 ---
