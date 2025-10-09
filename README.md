@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I’m James 👋
+Junior Software Developer with a background in operations and leadership.  
+Currently enrolled in the **UCD Professional Diploma in Full Stack Software Development**.  
+I enjoy building full-stack web applications using **Python (Flask/Django)** and **JavaScript (React)**.
+
+## 🔧 Tech Stack
+**Languages:** Python, JavaScript (ES6+), HTML5, CSS3  
+**Frameworks:** Django, Flask, React  
+**Databases:** PostgreSQL, SQLite  
+**Tools:** Git, GitHub, VS Code, Render, Netlify
+
+## 🚀 Featured Projects
+- [**PlanAtEase**](https://github.com/james-fitz86/planatease) – Smart travel itinerary builder (Django + React + REST API)  
+- [**Baile Beag GAA**](https://github.com/james-fitz86/baile-beag-gaa) – Role-based pitch booking system (Django + PostgreSQL)  
+- [**Homemade Pickle Store**](https://github.com/james-fitz86/pickle-polona) – Admin dashboard web app (Flask + SQLAlchemy)
+
+---
+
+💡 *Currently exploring React and REST API integrations while expanding my project portfolio.*
+
+---
+- 📫 How to reach me: james.fitzy86@icloud.com
 
 <!--
 **james-fitz86/james-fitz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
