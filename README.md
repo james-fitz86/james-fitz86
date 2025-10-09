@@ -2,6 +2,8 @@
 Junior Software Developer with a background in operations and leadership.  
 Currently enrolled in the **UCD Professional Diploma in Full Stack Software Development**.  
 I enjoy building full-stack web applications using **Python (Flask/Django)** and **JavaScript (React)**.
+---
+📫 Open to junior developer or internship opportunities — feel free to connect or reach out! james.fitzy86@gmail.com
 
 ## 🔧 Tech Stack
 **Languages:** Python, JavaScript (ES6+), HTML5, CSS3  
@@ -16,10 +18,9 @@ I enjoy building full-stack web applications using **Python (Flask/Django)** and
 
 ---
 
-💡 *Currently diving into Neovim and fine-tuning my developer setup.*
+💡 *Currently exploring Neovim and customising my Omarcy (Arch Linux) environment for an efficient dev setup.*
 
----
-- 📫 Open to junior developer or internship opportunities — feel free to connect or reach out! james.fitzy86@gmail.com
+
 
 <!--
 **james-fitz86/james-fitz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
