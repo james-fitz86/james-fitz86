@@ -1,7 +1,9 @@
-# Hi, I’m James 👋
+# Hi, I’m James 👋  
 Junior Software Developer with a background in operations and leadership.  
-Currently enrolled in the **UCD Professional Diploma in Full Stack Software Development**.  
-I enjoy building full-stack web applications using **Python (Flask/Django)** and **JavaScript (React)**.
+Graduated with **Distinction** in the **UCD Professional Diploma in Full Stack Software Development**.  
+I enjoy building full-stack web applications using **Python (Flask/Django)** and **JavaScript (React)**.  
+Passionate about clean, maintainable code and exploring how technology can simplify real-world workflows.  
+
 ---
 📫 Open to junior developer or internship opportunities — feel free to connect or reach out! james.fitzy86@gmail.com
 
