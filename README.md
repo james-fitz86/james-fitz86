@@ -20,7 +20,7 @@ Passionate about clean, maintainable code and exploring how technology can simpl
 
 ---
 
-💡 *Currently exploring Neovim and customising my Omarcy (Arch Linux) environment for an efficient dev setup.*
+💡 *Currently building a multi-tenant SaaS platform focused on departmental budget governance, approval workflows, and financial control systems.*
 
 
 
